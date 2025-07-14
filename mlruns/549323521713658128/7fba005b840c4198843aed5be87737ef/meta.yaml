@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/549323521713658128/7fba005b840c4198843aed5be87737ef/artifacts
+end_time: 1752503475276
+entry_point_name: ''
+experiment_id: '549323521713658128'
+lifecycle_stage: active
+run_id: 7fba005b840c4198843aed5be87737ef
+run_name: flawless-midge-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752503474822
+status: 4
+tags: []
+user_id: sarva

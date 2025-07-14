@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/549323521713658128/4d85735504f64b35a3dfc4cb1d49df80/artifacts
+end_time: 1752501976556
+entry_point_name: ''
+experiment_id: '549323521713658128'
+lifecycle_stage: active
+run_id: 4d85735504f64b35a3dfc4cb1d49df80
+run_name: handsome-finch-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752501969226
+status: 3
+tags: []
+user_id: sarva

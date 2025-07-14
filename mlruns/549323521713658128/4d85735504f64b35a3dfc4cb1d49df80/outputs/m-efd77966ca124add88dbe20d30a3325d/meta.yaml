@@ -1,0 +1,6 @@
+destination_id: m-efd77966ca124add88dbe20d30a3325d
+destination_type: MODEL_OUTPUT
+source_id: m-efd77966ca124add88dbe20d30a3325d
+source_type: RUN_OUTPUT
+step: 0
+tags: {}
