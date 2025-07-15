@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/549323521713658128/4d3037fff25346f6b45803917969ac03/artifacts
+end_time: 1752551691134
+entry_point_name: ''
+experiment_id: '549323521713658128'
+lifecycle_stage: active
+run_id: 4d3037fff25346f6b45803917969ac03
+run_name: illustrious-mule-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752551684230
+status: 3
+tags: []
+user_id: sarva

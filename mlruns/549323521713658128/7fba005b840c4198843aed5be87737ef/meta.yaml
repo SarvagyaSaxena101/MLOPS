@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/549323521713658128/7fba005b840c4198843aed5be87737ef/artifacts
+deleted_time: 1752551685263
 end_time: 1752503475276
 entry_point_name: ''
 experiment_id: '549323521713658128'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7fba005b840c4198843aed5be87737ef
 run_name: flawless-midge-689
 source_name: ''
